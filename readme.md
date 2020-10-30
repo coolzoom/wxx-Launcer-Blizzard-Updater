@@ -27,7 +27,7 @@ Add this file to the MPQ.
 
 Now you can send this MPQ to people logging into the server.
 
-
+Stoneharry on wow modding community 20201031 https://discord.gg/kjkfUX9Jbj
 I have a job that builds the installer like this:
 ```bash
 cd "C:\Users\Administrator\Desktop\ClientBuild"
